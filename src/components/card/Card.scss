@@ -1,0 +1,99 @@
+.movie-container {
+  font-family: "Roboto", sans-serif;
+  // font-size: 18px;
+  font-weight: 300;
+  color: #444;
+  background-color: whitesmoke;
+  padding: 30px;
+  max-width: 600px;
+  border-radius: 5px;
+  box-shadow: 0 5px 20px 10px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 999;
+}
+.movie {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.movie__hero {
+  flex: 0 0 40%;
+}
+
+.movie__img {
+  width: 100%;
+  display: block;
+}
+
+.movie__content {
+  padding-left: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.movie__title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  .tag_container {
+    display: flex;
+    gap: 2px;
+  }
+}
+
+.heading__primary {
+  text-align: left !important;
+  font-size: 28px !important;
+
+  // color: rgb(184, 33, 38);
+}
+
+.movie__tag {
+  font-size: 10px;
+  color: #fff;
+  padding: 2px 7px;
+  border-radius: 100px;
+  display: block;
+  text-transform: uppercase;
+}
+
+.movie__tag--1 {
+  background-color: #3f567f;
+}
+
+// .movie__tag--2 {
+//   background-color: #ffbbec;
+// }
+
+.movie__description {
+  font-size: 14px;
+  letter-spacing: 1px;
+  text-align: left;
+}
+
+.movie__details {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  // margin: auto;
+}
+
+.movie__detail {
+  display: flex;
+  align-items: center;
+}
+.actors-list {
+  font-size: 14px;
+  display: flex;
+  justify-content: space-between;
+  gap: 13px;
+}
+
+//

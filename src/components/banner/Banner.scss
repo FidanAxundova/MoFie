@@ -1,0 +1,58 @@
+.banner {
+  position: relative;
+  min-height: 80vh;
+  width: 100%;
+  // background-image: url("https://images.ctfassets.net/f4exvld7r7c2/2GoyXh8TbvL7J2cG2swJlN/a02b0f99e4370090a8e49fc630e27ac9/extraction_2__3_.jpg");
+  background-color: rgb(8, 8, 8, 0.3);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-top: 170px;
+}
+.banner-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgb(2, 0, 36);
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    180deg,
+    rgba(2, 0, 36, 0.3) 0%,
+    rgba(0, 0, 0, 0.3) 77%,
+    rgb(138, 137, 137)
+  );
+  // background: rgba(
+  //   0,
+  //   0,
+  //   0,
+  //   0.3
+  // ); /* Adjust the rgba values for the desired darkness */
+  z-index: 0; /* Make sure the overlay is behind the content */
+}
+
+.text {
+  position: relative;
+  font-size: 30px;
+  width: 500px;
+  margin-left: 65px;
+  z-index: 2;
+
+  span {
+    font-size: 16px;
+    color: rgb(184, 2, 2);
+  }
+
+  h2 {
+    font-family: "Bungee Tint", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  p {
+    font-weight: 200;
+    color: white;
+    font-size: 30px;
+    // z-index: ;
+  }
+}

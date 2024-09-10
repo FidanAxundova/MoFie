@@ -1,0 +1,66 @@
+.product-container {
+  z-index: 0;
+  width: 100%;
+  overflow-x: auto; // Enable horizontal scrolling
+  overflow-y: hidden; // Hide vertical scrolling if not needed
+}
+
+.products {
+  display: flex;
+  gap: 50px;
+  padding: 50px 0;
+  overflow-x: auto; // Ensure horizontal scrolling for the child div
+  white-space: nowrap; // Prevent wrapping of child elements
+}
+
+.product-box {
+  min-width: 250px; // Set a minimum width for each card
+  width: 250px; // Optional: fixed width if preferred
+  height: 350px;
+  flex: 0 0 auto; // Prevent the card from shrinking
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); // Optional: shadow for better visibility
+  border: 1px solid #ddd; // Optional: border for card outline
+  border-radius: 8px; // Optional: rounded corners
+  overflow: hidden; // Optional: ensure content doesn't overflow
+  background-color: #fff; // Optional: background color for the card
+  transition: all 0.5s ease;
+}
+.product-box:hover {
+  transform: translateY(-20px);
+}
+.product-box-in {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.top-part {
+  overflow: hidden; // Ensure image fits within the top part
+}
+
+.top-part img {
+  width: 100%; // Make the image fill the container
+  height: auto; // Maintain aspect ratio
+  object-fit: contain;
+  transition: all 0.5s ease-out;
+  transform: scale(1.4);
+}
+
+.bottom-part {
+  display: flex;
+  justify-content: space-between;
+}
+
+.age {
+  width: 50px;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+.time {
+  text-align: center;
+  width: 100px;
+  color: red;
+  background-color: white;
+}

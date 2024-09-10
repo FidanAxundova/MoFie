@@ -1,0 +1,158 @@
+{
+  "filmAction": [
+    {
+      "id": 64,
+      "productName": "Trigger Warning",
+      "age": "16+",
+      "time": "1.30 HOURS",
+      "productImage": "https://upload.wikimedia.org/wikipedia/ru/9/9c/Травмирующее_предупреждение.jpg",
+      "desc": "A special forces commando returns to her hometown after her father's sudden death, only to run afoul of a violent gang when she starts asking questions.",
+      "tags": ["#action"],
+      "actors": ["Jessica Alba"]
+    },
+    {
+      "id": 65,
+      "productImage": "https://upload.wikimedia.org/wikipedia/ru/thumb/5/5e/The_Gray_Man_%28film%2C_2022%29.jpg/1200px-The_Gray_Man_%28film%2C_2022%29.jpg",
+      "age": "12+",
+      "time": "1.30 hours",
+      "productName": "ThE Gray Man",
+      "desc": "When the CIA's most skilled operative, whose true identity is known to none, accidentally uncovers dark agency secrets, a psychopathic former colleague puts a bounty on his head, setting off a global manhunt by international assassins.",
+      "tags": ["#action"],
+      "actors": ["Ryan Gosling"]
+    },
+    {
+      "id": 66,
+      "age": "12+",
+      "time": "2 HOURS",
+      "productName": "Blackchat",
+      "productImage": "https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/4/7/1/8165174/191714461653466483.jpg",
+      "desc": "A furloughed convict and his American and Chinese partners hunt a high-level cybercrime network from Chicago to Los Angeles to Hong Kong to Jakarta.",
+      "tags": ["#action"],
+      "actors": ["Chris Hemsworth"]
+    },
+    {
+      "id": 67,
+      "age": "16+",
+      "time": "2.30 HOURS",
+      "productName": "Заложница",
+      "productImage": "https://upload.wikimedia.org/wikipedia/ru/9/98/Taken-poster-0.jpg",
+      "desc": "A retired CIA agent travels across Europe and relies on his old skills to save his estranged daughter, who has been kidnapped while on a trip to Paris.",
+      "tags": ["#action"],
+      "actors": ["Liam Neeson"]
+    },
+    {
+      "id": 68,
+      "age": "12+",
+      "time": "1.30 hours",
+      "productName": "Heart Stone",
+      "productImage": "https://upload.wikimedia.org/wikipedia/ru/thumb/9/9e/Сердце_Стоун.jpeg/1200px-Сердце_Стоун.jpeg",
+      "desc": "An intelligence operative for a shadowy global peacekeeping agency races to stop a hacker from stealing its most valuable and dangerous weapon.",
+      "tags": ["#action"],
+      "actors": ["Gal Gdot"]
+    },
+    {
+      "id": 69,
+      "age": "12+",
+      "time": "1.46h",
+      "productName": "Extraction2",
+      "productImage": "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/9762ee6a-7968-4448-a5b3-e931c03e874a/600x900",
+      "desc": "After barely surviving his grievous wounds from his mission in Dhaka, Bangladesh, Tyler Rake is back, and his team is ready to take on their next mission.",
+      "tags": ["#action"],
+      "actors": ["Chris Hemsworth"]
+    },
+    {
+      "id": 70,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "Джон Уик 2 ",
+      "productImage": "https://upload.wikimedia.org/wikipedia/ru/f/f1/John_Wick_2.jpg",
+      "desc": "After returning to the criminal underworld to repay a debt, John Wick discovers that a large bounty has been put on his life.",
+      "tags": ["#action"],
+      "actors": ["Keanu Reeves"]
+    },
+    {
+      "id": 71,
+      "age": "16+",
+      "time": "2 HOURS",
+      "productName": "Безумный Макс",
+      "productImage": "https://upload.wikimedia.org/wikipedia/ru/6/6e/Mad_Max_Fury_Road.jpg",
+      "desc": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshipper and a drifter named Max.",
+      "tags": ["#action"],
+      "actors": ["Tom Hardy, Charlize Theron"]
+    },
+    {
+      "id": 72,
+      "age": "12+",
+      "time": "2 h",
+      "productName": "Гемини",
+      "productImage": "https://upload.wikimedia.org/wikipedia/ru/7/78/Gemini_Man.jpg",
+      "desc": "An over-the-hill hitman faces off against a younger clone of himself.",
+      "tags": ["#action"],
+      "actors": ["Will Smith"]
+    }
+  ],
+
+  "title": [
+    {
+      "id": 110,
+      "productImage": "https://m.media-amazon.com/images/M/MV5BZjM2OGFkMjUtODdmMi00Y2UzLTljMjQtMDFmYmMzOGNmYjIzXkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_.jpg",
+      "productName": "Badland Hunters",
+      "age": "12+",
+      "time": "1.40h",
+      "desc": "When an earthquake turns Seoul into a lawless badland, a fearless huntsman goes on to rescue a teenager from a mad doctor who held the teenager captive in a camp full of dangerous cultists.",
+      "tags": ["#action"],
+      "actors": ["Ma Dong-seok"]
+
+    },
+    {
+      "id": 111,
+      "age": "12+",
+      "time": "2h",
+      "productName": "City Hunter ",
+      "productImage": "https://m.media-amazon.com/images/M/MV5BNWMyMmY5YjItMDIwNS00MWVjLWFlMDgtYWMwNTRiMjk0NzVjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",
+      "desc": "An exceptional marksman and hopeless playboy, private eye Ryo Saeba reluctantly forms an alliance with his late partner's sister to investigate his death.",
+      "tags": ["#action"],
+      "actors": ["Ryohei Suzuki"]
+    },
+    {
+      "id": 112,
+      "age": "12+",
+      "time": "2h",
+      "productName": "Atlas",
+      "productImage": "https://static.hdrezka.ac/i/2024/5/15/jcc11f2a7f16aeq55i74q.jpg",
+      "desc": "In a bleak-sounding future, an A.I. soldier has determined that the only way to end war is to end humanity.",
+      "tags": ["#action"],
+      "actors": ["Jennifer Lopez"]
+    },
+
+    {
+      "id": 113,
+      "age": "12+",
+      "time": "1.30h",
+      "productName": "Damsel ",
+      "productImage": "https://upload.wikimedia.org/wikipedia/ru/thumb/e/e1/Damsel_%282024%29.jpg/800px-Damsel_%282024%29.jpg",
+      "desc": "A dutiful damsel agrees to marry a handsome prince, only to find the royal family has recruited her as a sacrifice to repay an ancient debt.",
+      "tags": ["#action"],
+      "actors": ["Millie Bobby Brown"]
+    },
+    {
+      "id": 114,
+      "age": "16+",
+      "time": "2 HOURS",
+      "productName": "28 лет спустя",
+      "productImage": "https://media.2x2tv.ru/content/images/size/w1440h810/2024/04/28yearslaternewscooover.jpg",
+      "desc": "28 years ....",
+      "actors": ["Henry "]
+    },
+    {
+      "id": 115,
+      "age": "16+",
+      "time": "2 HOURS",
+      "productName": " Star Trek Section 31",
+      "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVE6ovTV_xcAOmyI4b_MYZcr3eL_GfHo7B1Q&s",
+      "desc": "In Star Trek: Section 31, Emperor Philippa Georgiou, joins a secret division of Starfleet tasked with protecting the United Federation of Planets and faces the sins of her past.",
+      "tags": ["#action"],
+      "actors": ["Humberly Gonzalez"]
+    }
+  ]
+}

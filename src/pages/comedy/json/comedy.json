@@ -1,0 +1,149 @@
+{
+  "filmComedy": [
+    {
+      "id": 46,
+      "productName": "Девичник в Вегасе",
+      "age": "18+",
+      "time": "2hours",
+      "productImage": "https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/13f965da-dd93-450d-8b47-48ed7c20703e/600x900",
+      "desc": "Competition between the maid of honor and a bridesmaid, over who is the bride's best friend, threatens to upend the life of an out-of-work pastry chef.",
+      "tags": ["#comedy"],
+      "actors": ["Kristen Wiig"]
+    },
+    {
+      "id": 47,
+      "productImage": "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/9eb59294-ff7f-4f54-977f-acb266e165bf/600x900",
+      "age": "18+",
+      "time": "1.30 hours",
+      "productName": "Дрянные Девчонки",
+      "desc": "Cady Heron is a hit with the Plastics, an A-list girl clique at her new school. But everything changes when she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
+      "tags": ["#comedy"],
+      "actors": ["Lindsay Lohan"]
+    },
+    {
+      "id": 48,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "Дедпул",
+      "productImage": "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/f9da0090-ada3-49fb-b05d-20fbbb80f54b/600x900",
+      "desc": "A wisecracking mercenary gets experimented on and becomes immortal yet hideously scarred, and sets out to track down the man who ruined his looks..",
+      "tags": ["#comedy"],
+      "actors": ["Ryan Reynolds, Caterina Ferioli"]
+    },
+    {
+      "id": 49,
+      "age": "18+",
+      "time": "2.30 HOURS",
+      "productName": "Диктатор",
+      "productImage": "https://thumbs.dfs.ivi.ru/storage28/contents/f/5/463a3cfd59a670bf06577500bdbe47.jpg",
+      "desc": "The heroic story of a dictator who risked his life to ensure that democracy would never come to the country he so lovingly oppressed.",
+      "tags": ["#comedy"],
+      "actors": ["Sacha Baron Cohen "]
+    },
+    {
+      "id": 50,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "Папе снова 17",
+      "productImage": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/5379cea8-6aa3-4e1a-b3cd-7f1870e9394f/576x",
+      "desc": "Mike O'Donnell is ungrateful for how his life turned out. He gets a chance to rewrite his life when he tried to save a janitor near a bridge and jumped after him into a time vortex.",
+      "tags": ["#comedy"],
+      "actors": ["Zac Efron"]
+    },
+    {
+      "id": 51,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "Копы в юбках",
+      "productImage": "https://media.kg-portal.ru/movies/h/heat/posters/heat_3.jpg",
+      "desc": "An uptight FBI Special Agent is paired with a foul-mouthed Boston cop to take down a ruthless drug lord.",
+      "tags": ["#comedy"],
+      "actors": ["Sandra Bullock,Michael McDonald"]
+    },
+    {
+      "id": 52,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "BeetleJuice",
+      "productImage": "https://upload.wikimedia.org/wikipedia/ru/thumb/b/b5/Beetlejuice_%281988%29.jpg/640px-Beetlejuice_%281988%29.jpg",
+      "desc": "The spirits of a deceased couple are harassed by an unbearable family that has moved into their home, and hire a malicious spirit to drive them out.",
+      "tags": ["#comedy"],
+      "actors": ["Alec Baldwin"]
+    },
+    {
+      "id": 53,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "Отличница легкого поведения",
+      "productImage": "https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/8cab5fc0-3288-49bc-a70b-23de1105f0f2/600x900",
+      "desc": "When Olive lies to her best friend about losing her virginity to one of the college boys, a girl overhears their conversation. Soon, her story spreads across the entire school like wildfire.",
+      "tags": ["#comedy"],
+      "actors": ["Emma Stone"]
+    },
+    {
+      "id": 54,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "Just go with it",
+      "productImage": "https://kinotv.ru/upload/delight.webpconverter/upload/resize_cache/iblock/029/029a0febac0e4abd1ba9c775e58e00f6/600_900_2/e9fd61bb2ed82a62355e966386590439.jpg.webp?170005395486124",
+      "desc": "On a weekend trip to Hawaii, a plastic surgeon convinces his loyal assistant to pose as his soon-to-be-divorced wife in order to cover up a careless lie he told to his much-younger girlfriend.",
+      "tags": ["#comedy"],
+      "actors": ["Adam Sandler, Jennifer Aniston"]
+    }
+  ],
+
+  "title": [
+    {
+      "id": 116,
+      "productImage": "https://m.media-amazon.com/images/M/MV5BNTkyNzA5YmMtZjE3ZC00YjljLThkNDQtZGI0NWEyZmZkZTNlXkEyXkFqcGc@._V1_.jpg",
+      "productName": "Incoming ",
+      "age": "18+",
+      "time": "1.40h",
+      "desc": "Four freshmen navigate the terrors of adolescence at their first-ever high school party.",
+      "tags": ["#comedy"],
+      "actors": ["Mason Thames"]
+    },
+    {
+      "id": 117,
+      "age": "16+",
+      "time": "2 HOURS",
+      "productName": "Mean Girls 2024",
+      "productImage": "https://avatars.mds.yandex.net/get-kinopoisk-image/10893610/92696e5c-5218-4a8b-a760-cba9844a3172/600x900",
+      "desc": "Cady Heron is a hit with the Plastics, an A-list girl clique at her new school. But everything changes when she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
+      "tags": ["#comedy"],
+      "actors": ["Angourie Rice, Renee Rapp"]
+    },
+    {
+      "id": 118,
+      "age": "16+",
+      "time": "2 HOURS",
+      "productName": "Полицейский из Беверли-Хиллс",
+      "productImage": "https://upload.wikimedia.org/wikipedia/ru/0/04/BeverlyHillsCop4_poster.jpg",
+      "desc": "Axel Foley returns to Beverly Hills after his daughter's life is threatened for a family reunion that includes old pals John Taggart and Billy Rosewood to uncover a conspiracy.",
+      "tags": ["#comedy"],
+      "actors": ["Eddie Murphy"]
+    },
+
+    {
+      "id": 119,
+      "age": "16+",
+      "time": "2 HOURS",
+      "productName": "Аутсайдеры",
+      "productImage": "https://static.hdrezka.ac/i/2024/1/30/h911d079bb156ld35a68t.jpg",
+      "desc": "The true story of Jasmine Plummer who, at the age of eleven, became the first female to play in Pop Warner football tournament in its 56-year history.",
+      "tags": ["#comedy"],
+      "actors": ["Ice Cube"]
+    },
+
+    {
+      "id": 121,
+      "age": "16+",
+      "time": "2 HOURS",
+      "productName": " A Family Affair",
+      "productImage": "https://upload.wikimedia.org/wikipedia/ru/e/e3/Семейное_дело_%28фильм%2C_2024%29.jpg",
+      "desc": "A surprising romance kicks off comic consequences for a young woman, her mother and her movie star boss as they face the complications of love, sex, and identity.",
+      "tags": ["#comedy"],
+      "actors": ["Nicole Kidman, Zac Efron "]
+    }
+  ]
+}

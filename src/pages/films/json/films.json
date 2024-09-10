@@ -1,0 +1,139 @@
+{
+  "films": [
+    {
+      "id": 82,
+      "productImage": "https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/0/1/8374101/104894313564.jpg",
+      "productName": "Повышение",
+      "age": "16+",
+      "time": "1.26h",
+      "desc": "Two assistant managers of a corporate grocery store vie for a coveted promotion..",
+      "tags": ["#comedy"],
+      "actors": ["Michael Yurchak"]
+    },
+    {
+      "id": 83,
+      "productImage": "https://upload.wikimedia.org/wikipedia/ru/8/8e/Spaceman_%28film%2C_2024%29.jpg",
+      "age": "16+",
+      "time": "1.47h",
+      "productName": "Spaceman",
+      "desc": "Half a year into his solo mission on the edge of the solar system, an astronaut concerned with the state of his life back on Earth is helped by an ancient creature he discovers in the bowels of his ship.",
+      "tags": ["#drama,#adventure"],
+      "actors": ["Adam Sandler"]
+    },
+    {
+      "id": 8,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "The Conjuring",
+      "productImage": "https://play-lh.googleusercontent.com/-Rk1B7SpHI87qJ3VTIkbDJWqjLVT0AiMjGJY8z8X9mrmtFzRbs18QF0bTEyhTLlyEBHsTy3BImKejn3BdxQ",
+      "desc": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
+      "tags": ["#horror", "#action"],
+      "actors": ["Patrick Wilson", "Vera Farmiga"]
+    },
+    {
+      "id": 9,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "Smile",
+      "productImage": "https://fitchburgpoint.com/wp-content/uploads/2022/10/Smile-photo-from-Bloody-Disgusting-616x900.png",
+      "desc": "After witnessing a bizarre, traumatic incident involving a patient, a psychiatrist becomes increasingly convinced she is being threatened by an uncanny entity.",
+      "tags": ["#horror", "#action"],
+      "actors": ["Sosie Bacon", "Jessie T.Usher"]
+    },
+
+    {
+      "id": 88,
+      "age": "16+",
+      "time": "1.55h",
+      "productName": "Bad Boys ",
+      "productImage": "https://avatars.mds.yandex.net/get-kinopoisk-image/10812607/c05d6394-0215-41fe-94bc-2704caa6570f/600x900",
+      "desc": "When their late police captain gets linked to drug cartels, wisecracking Miami cops Mike Lowrey and Marcus Burnett embark on a dangerous mission to clear his name.",
+      "tags": ["#action epic"],
+      "actors": ["Will Smith , Martin Lawrence"]
+    },
+    {
+      "id": 89,
+      "age": "18+",
+      "time": "1.56h",
+      "productName": "Madame Web",
+      "productImage": "https://www.kino-teatr.ru/movie/posters/big/5/176575.jpg",
+      "desc": "Cassandra Webb is a New York metropolis paramedic who begins to demonstrate signs of clairvoyance. Forced to challenge revelations about her past, she needs to safeguard three young women from a deadly adversary who wants them destroyed..",
+      "tags": ["#superhero"],
+      "actors": ["Dakota Johnson"]
+    },
+    {
+      "id": 90,
+      "age": "16+",
+      "time": "2.1h",
+      "productName": "Road House",
+      "productImage": "https://upload.wikimedia.org/wikipedia/ru/8/82/Road_House_2024.jpg",
+      "desc": "Ex-UFC fighter Dalton takes a job as a bouncer at a Florida Keys roadhouse, only to discover that this paradise is not all it seems.",
+      "tags": ["#action"],
+      "actors": ["Jake Gyllenhaal"]
+    }
+  ],
+
+  "title": [
+    {
+      "id": 98,
+      "productImage": "https://avatars.mds.yandex.net/get-kinopoisk-image/9784475/30bce97d-bd58-478a-ba8a-35ab2ece7f84/600x900",
+      "productName": "Night Swim ",
+      "age": "16+",
+      "time": "1.40h",
+      "desc": "A family moves into a new home, unaware that a dark secret from the house's past will unleash a malevolent force in the backyard pool.",
+      "tags": ["horror"],
+      "actors": ["Wyatt Russell "]
+    },
+    {
+      "id": 99,
+      "age": "16+",
+      "time": "1.30 h",
+      "productName": "60 Minutes",
+      "productImage": "https://avatars.mds.yandex.net/get-kinopoisk-image/10671298/d10b8ea0-dd0c-4b72-8909-4c42f2240441/600x900",
+      "desc": "Ex-UFC fighter Dalton takes a job as a bouncer at a Florida Keys roadhouse, only to discover that this paradise is not all it seems.",
+      "tags": ["#action"],
+      "actors": ["Emilio Sakraya"]
+    },
+    {
+      "id": 100,
+      "age": "16+",
+      "time": "2 HOURS",
+      "productName": "The Forge",
+      "productImage": "https://m.media-amazon.com/images/M/MV5BMmYxMTUwM2ItZGVlZi00ODI0LTg2N2QtMTcyNTBlODcwNWUzXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_.jpg",
+      "desc": "After graduating from high school without any plans for the future, Isaiah receives a push to start making better life decisions.",
+      "tags": ["#drama"],
+      "actors": ["Aspen Kennedy"]
+    },
+
+    {
+      "id": 101,
+      "age": "12+",
+      "time": "2.20h",
+      "productName": "Fly me to the Moon",
+      "productImage": "https://upload.wikimedia.org/wikipedia/ru/7/75/Покажи_мне_Луну.jpg",
+      "desc": "Marketing maven Kelly Jones wreaks havoc on launch director Cole Davis's already difficult task. When the White House deems the mission too important to fail, the countdown truly begins.",
+      "tags": ["#comedy"],
+      "actors": ["Scarlett Johansson., Channing Tatum"]
+    },
+    {
+      "id": 102,
+      "age": "12+",
+      "time": "2h",
+      "productName": "Sayen",
+      "productImage": "https://m.media-amazon.com/images/M/MV5BNmVlODY5ZjMtZjJjZi00MmFjLWI2M2QtNGZkZDJhZjQyN2Q2XkEyXkFqcGdeQXVyMTc1NTIyMjQw._V1_.jpg",
+      "desc": "Sayen is hunting down the men who murdered her grandmother. Using her training and knowledge of nature, she is able to turn the tables on them, learning of a conspiracy from a corporation that threatens her people's ancestral lands.",
+      "tags": ["#action"],
+      "actors": ["Rallen Montenegro"]
+    },
+    {
+      "id": 103,
+      "age": "12+",
+      "time": "1.50h",
+      "productName": "Space Cadet",
+      "productImage": "https://m.media-amazon.com/images/M/MV5BNjYwNWMxN2UtMWI1NC00ZWI5LTkzYzgtMmYzNDEyODMyYmE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "desc": "Rex, a Florida party girl, turns out to be the only hope for the NASA space program after a fluke puts her in training with other candidates who may have better resumés, but don't have her smarts, heart, and moxie.",
+      "tags": ["#comedy"],
+      "actors": ["Emma Roberts"]
+    }
+  ]
+}

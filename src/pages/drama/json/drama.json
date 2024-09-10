@@ -1,0 +1,148 @@
+{
+  "filmDrama": [
+    {
+      "id": 10,
+      "productName": "The idea of you",
+      "age": "18+",
+      "time": "2hours",
+      "productImage": "https://mpd-biblio-covers.imgix.net/9781250353078.jpg",
+      "desc": "Solène, a 40-year-old single mom, begins an unexpected romance with 24-year-old Hayes Campbell, the lead singer of August Moon, the hottest boy band on the planet",
+      "tags": ["#drama"],
+      "actors": ["Anna Hathawat , Nicolas Galitzine"]
+    },
+    {
+      "id": 11,
+      "productImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1608557210i/56358568.jpg",
+      "age": "18+",
+      "time": "1.30 hours",
+      "productName": "Fabricante Di Lacrime",
+      "desc": "Sometimes our greatest fear is accepting that someone can honestly love us for who we are. Nica and Rigel are ready to find it out together.",
+      "tags": ["#drama"],
+      "actors": ["Simone Baldasseroni, Caterina Ferioli"]
+    },
+    {
+      "id": 12,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "1+1",
+      "productImage": "https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/5/1/3/8133315/221874261653466068.jpg",
+      "desc": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+      "tags": ["#drama"],
+      "actors": ["Francois Cluzet, Omar Sy"]
+    },
+    {
+      "id": 13,
+      "age": "18+",
+      "time": "2.30 HOURS",
+      "productName": "Брат",
+      "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEkPzewX4-_r8WiUgMrpDg4CRRt8FC8xkHzg&s",
+      "desc": "An ex-soldier with a personal honor code enters the family crime business in St. Petersburg, Russia.",
+      "tags": ["#drama"],
+      "actors": ["Sergey Bodrov, Viktor Sukrukov "]
+    },
+    {
+      "id": 14,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "The Green Mile",
+      "productImage": "https://blob.cede.ch/catalog/17665000/17665708_1_92.jpg?v=1",
+      "desc": "A tale set on death row, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the lead guard, Paul Edgecombe, recognizes John's gift, he tries to help stave off the condemned man's execution.",
+      "tags": ["#drama"],
+      "actors": ["Tom Hanks, Michael Clarke"]
+    },
+    {
+      "id": 15,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "Forrest Gump",
+      "productImage": "https://www.lamusica.com.co/cdn/shop/products/FORRESTGUMPBLURAY.jpg?v=1602191431",
+      "desc": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+      "tags": ["#drama"],
+      "actors": ["Tom Hanks, Robin Wright "]
+    },
+    {
+      "id": 16,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "T-34",
+      "productImage": "https://ru-images-s.kinorium.com/movie/1080/1538765.jpg?1652304919",
+      "desc": "An SS Panzer Division uses a T-34 manned by Soviet POWs as a training target, but the prisoners plot a daring maneuver.",
+      "tags": ["#drama"],
+      "actors": ["Aleksandr Petrov , IrinaStarshenbaum"]
+    },
+    {
+      "id": 17,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "Изгой",
+      "productImage": "https://static.okko.tv/images/v4/36fb4d85-60a6-4124-8617-bd26a029224c?scale=1&quality=80",
+      "desc": "A FedEx executive undergoes a physical and emotional transformation after crash landing on a deserted island.",
+      "tags": ["#drama"],
+      "actors": ["Tom Hanks"]
+    },
+    {
+      "id": 18,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "The Devil Wears Prada",
+      "productImage": "https://m.media-amazon.com/images/I/61O0FZAnSWL._AC_UF894,1000_QL80_.jpg",
+      "desc": "A smart but sensible new graduate lands a job as an assistant to Miranda Priestly, the demanding editor-in-chief of a high fashion magazine.",
+      "tags": ["#drama"],
+      "actors": ["Anne Hathaway , Merly Streep"]
+    }
+  ],
+
+  "title": [
+    {
+      "id": 99,
+      "age": "16+",
+      "time": "2 HOURS",
+      "productName": "Ordinary Angels",
+      "productImage": "https://upload.wikimedia.org/wikipedia/en/9/9e/Ordinary_angels_poster.png",
+      "desc": "Inspired by the incredible true story of a hairdresser who single-handedly rallies an entire community to help a widowed father save the life of his critically ill young daughter.",
+      "tags": ["#drama"],
+      "actors": ["Hilary Swank, Alan Ritchson"]
+    },
+    {
+      "id": 100,
+      "age": "16+",
+      "time": "2 HOURS",
+      "productName": "18×2 Beyond Youthful Days",
+      "productImage": "https://m.media-amazon.com/images/M/MV5BZWMzMmU3ZjgtNjkzMC00ODk4LWIyNTAtMmQyNmMyYjFkYWQxXkEyXkFqcGdeQXVyODMyOTYyMTM@._V1_.jpg",
+      "desc": "Ami, a Japanese backpacker, and Jimmy work together at a KTV. They bond over work and adventures, but Ami leaves suddenly. Eighteen years later, Jimmy finds a postcard from Ami, sparking a journey to Japan to find closure and reconnect.",
+      "tags": ["#drama", "romance"],
+      "actors": ["Greg Han Su "]
+    },
+
+    {
+      "id": 101,
+      "age": "16+",
+      "time": "2 HOURS",
+      "productName": "Rest in Peace ",
+      "productImage": "https://m.media-amazon.com/images/M/MV5BY2Y0MTJjMmMtMTUyYS00NWNhLTkwYjYtZDAxNDIxMWMxZDFjXkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_.jpg",
+      "desc": "A family man who, cornered by debt, decides to take advantage of a chance and unpredictable circumstance to disappear.",
+      "tags": ["#drama"],
+      "actors": ["Joaquin Furriel"]
+    },
+    {
+      "id": 102,
+      "age": "16+",
+      "time": "2 HOURS",
+      "productName": "There is a Monster ",
+      "productImage": "https://resizing.flixster.com/4P3EHDWR2WP-k3dd00pVxiIFd7I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RhNDQzMjg3LTVhNjUtNGE0Ny1hYjQ1LTZjNDk5YWRiM2MzZC5qcGc=",
+      "desc": "A man is haunted and hunted by a monster that only he can see.",
+      "tags": ["#drama"],
+      "actors": ["Joey Collins"]
+    },
+    {
+      "id": 103,
+      "age": "16+",
+      "time": "2 HOURS",
+      "productName": " Strange Darling ",
+      "productImage": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/231334/StrangeDarling-1600.jpg",
+      "desc": "Nothing is what it seems when a twisted one-night stand spirals into a serial killer's vicious murder spree.",
+      "tags": ["#drama"],
+      "actors": ["Willa Fitzerald "]
+    }
+  ]
+}

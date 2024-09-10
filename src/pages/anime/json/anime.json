@@ -1,0 +1,159 @@
+{
+    "anime": [
+      {
+        "id": 37,
+        "productName": "Demon slayer",
+        "age": "16+",
+        "time": "40min",
+        "productImage": "https://upload.wikimedia.org/wikipedia/ru/e/e0/Demon_Slayer_Kimetsu_key_visual.jpg",
+        "desc": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
+        "tags": ["#anime"],
+        "actors": ["Natsuki Hanae "]
+      },
+      {
+        "id": 38,
+        "productImage": "https://m.media-amazon.com/images/M/MV5BM2ZkYTAwMGMtOGEwOS00MzBjLTgxOGYtZTYwY2E1ZjMyZmY4XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",
+        "time": "45min",
+        "age": "12+",
+        "productName": " Монстр",
+        "desc": "Tenma, a brilliant neurosurgeon with a promising future, risks his career to save the life of a critically wounded young boy. The boy, now a charismatic young man, reappears 9 years later in the midst of a string of unusual serial murders.",
+        "tags": ["#anime"],
+        "actors": ["Hidenobu Kiuchi"]
+      },
+      {
+        "id": 39,
+        "age": "12+",
+        "time": "45min",
+        "productName": "Голубозлазый самурай",
+        "productImage": "https://kinotv.ru/upload/delight.webpconverter/upload/setka-editor/bdb/bdb51f1b6e10dacfda89956d7ac5c34d/1bc884aa309d174c9054160b1a53504c.jpg.webp?1700053232212580",
+        "desc": "Driven by a dream of revenge against those who made her an outcast in Edo-period Japan, a young warrior cuts a bloody path toward her destiny.",
+        "tags": ["#anime"],
+        "actors": ["Maya Erskine"]
+      },
+      {
+        "id": 40,
+        "age": "12+",
+        "time": "1h",
+        "productName": "One Peace ",
+        "productImage": "https://kinocensor.ru/cache/videos/12947/5c88599ed19994fd3ced481339c2259b-367x550.jpg",
+        "desc": "One Peace ",
+        "tags": ["#anime"],
+        "actors": ["anime"]
+      },
+      {
+        "id":41,
+        "age": "16+",
+        "time": "1h",
+        "productName": "Повесть о конце света",
+        "productImage": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/484ffa3f-3bbe-4d99-9c31-f6257e791b66/600x900",
+        "desc": "Every 1000 years, the Gods' Council assemble to decide the fate of humanity. After 7 million years of human history, the gods come to the decision that humans are irredeemable and must be extinct.",
+        "tags": ["#anime"],
+        "actors": ["Miyuki Saeashiro "]
+      },
+      {
+        "id": 42,
+        "age": "16+",
+        "time": "45min",
+        "productName": "Baki",
+        "productImage": "https://images.justwatch.com/poster/306773666/s718/baki-hanma.jpg",
+        "desc": "The protagonist, Baki Hanma, trains with an intense focus to become strong enough to surpass his father, Yujiro Hanma, the strongest fighter in the world.",
+        "tags": ["#anime"],
+        "actors": ["Toru Furuya"]
+      },
+      {
+        "id": 43,
+        "age": "16+",
+        "time": "36min",
+        "productName": "Revisions ",
+        "productImage": "https://m.media-amazon.com/images/M/MV5BZjNkODIwOWQtZTY5MC00ZDNkLTg5YjMtOGZmN2RlNTMzNjM2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "desc": "When Shibuya City is time-warped to 2388, a group of high school students is conscripted by an AHRV agent to fight off the hostile cyborg race called revisions, with the help of giant robot monsters.",
+        "tags": ["#anime"],
+        "actors": ["Bryce Papenbrook"]
+      },
+      {
+        "id": 44,
+        "age": "18+",
+        "time": "1.55h",
+        "productName": "Укрась прощальное утро цветами",
+        "productImage": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/551571aa-2c50-41b2-9ffb-51878e443054/600x900",
+        "desc": "Maquia, a teenager, belongs to the Iorph community whose members can live for hundreds of years. But her life changes when the Iorph settlement is invaded and she comes across an orphan.",
+        "tags": ["#cartoon"],
+        "actors": ["Manaka Iwami "]
+      },
+      {
+        "id": 45,
+        "age": "18+",
+        "time": "2 HOURS",
+        "productName": "Вкусы молодости ",
+        "productImage": "https://image.tmdb.org/t/p/original/8vTibuSH2qOC9HQjilXvAGyn1on.jpg",
+        "desc": "Three different stories of youth set in different cities of China..",
+        "tags": ["#anime"],
+        "actors": ["White-K"]
+      }
+    ],
+          
+    "title": [
+      {
+        "id": 128,
+        "productImage": "https://m.media-amazon.com/images/M/MV5BYWVjMzFiMjUtYWYyMC00YjRmLWJiYTctOTU2YWU3NjcxMWY3XkEyXkFqcGc@._V1_.jpg",
+        "productName": "Terminator Zero",
+        "age": "12+",
+        "time": "28min",
+        "desc": "2022: A future war has raged for decades between the few human survivors and an endless army of machines. 1997: The AI known as Skynet gained self-awareness and began its war against humanity.",
+        "tags": ["#anime"],
+        "actors": ["Yuya Uchida"]
+      },
+      {
+        "id": 129,
+        "age": "12+",
+        "time": "1.52h",
+        "productName": "My Oni Girl",
+        "productImage": "https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABUV-5WaOCB-HFT_fGhjAhDnsHJhMriSLCkU9UhzYuExSrHe6ZT_aVAYqShDxIkmbKGaDBD24igDQop_3FqVdzsKVngTfkawwHuIglPZZToAd_Uzxlx7g2t-ZyxV8PdjCQZ3S0Q.jpg?r=f84",
+        "desc": "After Garfield's unexpected reunion with his long-lost father, ragged alley cat Vic, he and his canine friend Odie are forced from their perfectly pampered lives to join Vic on a risky heist.",
+        "tags": ["#anime"],
+        "actors": ["Kensho Ono "]
+      },
+      {
+        "id": 130,
+        "age": "12+",
+        "time": "45min",
+        "productName": "The Grimm Variations",
+        "productImage": "https://m.media-amazon.com/images/M/MV5BYzBlMzg5ZTUtZTc2Ny00NDZkLWE2NTAtZWFkMGM5ZDQ5ZDAxXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+        "desc": "Inspired by the classic Brothers Grimm stories, this anthology features six fairy tales with a dark twist, exposing the shadowy side of human desire..",
+        "tags": ["#anime"],
+        "actors": ["Anairis Quinones"]
+      },
+  
+      {
+        "id": 131,
+        "age": "12+",
+        "time": "2 HOURS",
+        "productName": "SakaMoto",
+        "productImage": "https://m.media-amazon.com/images/M/MV5BNzRkMjE3NTItZDZmZC00MTIyLTg4MmEtMmYyZGNmZDZjZjM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "desc": "Legendary ex-hitman Taro Sakamoto bands with comrades to face off against the looming threat of assassins to ensure a peaceful life with his beloved family in this long-awaited anime adaptation..",
+        "tags": ["#anime"],
+        "actors": ["Tomokazu Sugita"]
+      },
+      {
+        "id": 132,
+        "age": "16+",
+        "time": "40min",
+        "productName": "Tougen Anki: Dark Demon of Paradise",
+        "productImage": "https://upload.wikimedia.org/wikipedia/en/1/10/Tōgen_Anki_1.png",
+        "desc": "When Shiki's father is killed, he discovers he has demon ancestry and enters a secret war going on between demons and heroes",
+        "tags": ["#anime"],
+        "actors": ["Kazuki"]
+      },
+      {
+        "id": 133,
+        "age": "16+",
+        "time": "2 HOURS",
+        "productName": " Rising Impact",
+        "productImage": "https://m.media-amazon.com/images/M/MV5BYmM1ZDBmZDQtMGU5Zi00ODc1LWFlNDMtNTE3ZTlhMmQwZWI4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "desc": "Follows the growth of third-grader Gawain Nanaumi as he encounters the sport of golf and competes with his rivals.",
+        "tags": ["#anime"],
+        "actors": ["Michael Yurchak"]
+      }
+    ]
+  }
+  

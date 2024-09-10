@@ -1,0 +1,171 @@
+{
+  "filmHorror": [
+    {
+      "id": 1,
+      "productName": "Tarot",
+      "age": "18+",
+      "time": "2hours",
+      "productImage": "https://skyline.by/wp-content/uploads/2024/06/taro-karta-smerti_2025-720x1024.jpg",
+      "desc": "The story follows a group of college students who, after using a strange Tarot deck, begin to gruesomely die one by one and must uncover the deck's mystery before time runs out. Tarot was released in the United States by Sony Pictures Releasing on May 3, 2024.",
+      "tags": ["#horror", "#action"],
+      "actors": ["Harriet Slater", "Adain Bradley", "Jacob Batalon"]
+    },
+    {
+      "id": 2,
+      "productImage": "https://asilmedia.org/rasmlar/images/2023/02/26/y8iuyu8iyu8iyu8ik.jpg",
+      "age": "18+",
+      "time": "1.30 hours",
+      "productName": "Astral",
+      "desc": "Based on the best selling book by Chico Xavier, the film tells the story of Andre Luiz, a successful doctor who experiences an enlightening spiritual awakening after his death. When he wakes up in the spiritual world, he embarks on a new journey of self-discovery and transformation.",
+      "tags": ["#horror", "#action"],
+      "actors": ["Patrick Wilson ", "Rose Byrne", "Ty Simpkins"]
+    },
+    {
+      "id": 3,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "Anabell",
+      "productImage": "https://m.media-amazon.com/images/I/91iwiH7MCPL._AC_UF1000,1000_QL80_.jpg",
+      "desc": "A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists.",
+      "tags": ["#horror", "#action"],
+      "actors": ["Ward Horton ", "Annabelle Wallis", "Alfre Woodard"]
+    },
+    {
+      "id": 4,
+      "age": "18+",
+      "time": "2.30 HOURS",
+      "productName": "Sinister",
+      "productImage": "https://m.media-amazon.com/images/M/MV5BMjI5MTg1Njg0Ml5BMl5BanBnXkFtZTcwNzg2Mjc4Nw@@._V1_.jpg",
+      "desc": "A controversial true-crime writer finds a box of Super 8 home movies in his new home, revealing that the murder case he is currently researching could be the work of an unknown serial killer...",
+      "tags": ["#horror", "#action"],
+      "actors": ["Ethan Hawke ", "Juliet Rylance", "James Ransone"]
+    },
+    {
+      "id": 5,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "Babadook",
+      "productImage": "https://m.media-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_.jpg",
+      "desc": "A single mother and her child fall into a deep well of paranoia when an eerie children's book titled Mister Babadook manifests in their home.",
+      "tags": ["#horror", "#action"],
+      "actors": ["Essie Davis", "Noah Wiseman", "Daniel Henshall"]
+    },
+    {
+      "id": 6,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "Chucky",
+      "productImage": "https://m.media-amazon.com/images/M/MV5BMTA5NTMyN2UtMDBmOC00YzVlLWIzZTEtNTM0YjZmY2E4YjYzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "desc": "After a vintage Chucky doll turns up at a suburban yard sale, an idyllic American town is thrown into chaos as a series of horrifying murders begin to expose the town's hypocrisies and secre..",
+      "tags": ["#horror", "#action"],
+      "actors": ["Zackary Arthur", "Bjorgvoin Arnarson"]
+    },
+    {
+      "id": 7,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "Обратный отчет",
+      "productImage": "https://upload.wikimedia.org/wikipedia/ru/0/0a/Обратный_отсчёт_%28фильм%2C_2019%29.jpg",
+      "desc": "After a vintage Chucky doll turns up at a suburban yard sale, an idyllic American town is thrown into chaos as a series of horrifying murders begin to expose the town's hypocrisies and secre..",
+      "tags": ["#horror", "#action"],
+      "actors": ["Zackary Arthur", "Bjorgvoin Arnarson"]
+    },
+
+    {
+      "id": 8,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "The Conjuring",
+      "productImage": "https://play-lh.googleusercontent.com/-Rk1B7SpHI87qJ3VTIkbDJWqjLVT0AiMjGJY8z8X9mrmtFzRbs18QF0bTEyhTLlyEBHsTy3BImKejn3BdxQ",
+      "desc": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
+      "tags": ["#horror", "#action"],
+      "actors": ["Patrick Wilson", "Vera Farmiga"]
+    },
+    {
+      "id": 9,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "Smile",
+      "productImage": "https://fitchburgpoint.com/wp-content/uploads/2022/10/Smile-photo-from-Bloody-Disgusting-616x900.png",
+      "desc": "After witnessing a bizarre, traumatic incident involving a patient, a psychiatrist becomes increasingly convinced she is being threatened by an uncanny entity.",
+      "tags": ["#horror", "#action"],
+      "actors": ["Sosie Bacon", "Jessie T.Usher"]
+    }
+  ],
+
+  "title": [
+    {
+      "id": 6,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "Abigail",
+      "productImage": "https://upload.wikimedia.org/wikipedia/ru/e/e8/Abigail_poster.jpg",
+      "desc": "After a group of criminals kidnap the ballerina daughter of a powerful underworld figure, they retreat to an isolated mansion, unaware that they're locked inside with no normal little girl.",
+      "tags": ["#horror", "#action"],
+      "actors": ["Melissa Barrea "]
+    },
+    {
+      "id": 7,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "Watchers",
+      "productImage": "https://avatars.mds.yandex.net/get-kinopoisk-image/10768063/27a4c4f0-259a-4716-981c-e92fa5a875bd/600x900",
+      "desc": "A young artist gets stranded in an extensive, immaculate forest in western Ireland, where, after finding shelter, she becomes trapped alongside three strangers, stalked by mysterious creatures each night.",
+      "tags": ["#horror", "#action"],
+      "actors": ["Dakota Fanning "]
+    },
+
+    {
+      "id": 8,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "The First Omen",
+      "productImage": "https://upload.wikimedia.org/wikipedia/ru/2/27/The_First_Omen.jpg",
+      "desc": "A young American woman is sent to Rome to begin a life of service to the church, but encounters a darkness that causes her to question her faith and uncovers a terrifying conspiracy that hopes to bring about the birth of evil incarnate.",
+      "tags": ["#horror", "#action"],
+      "actors": ["Nell Tiger Free  ", "Ralph Ineson"]
+    },
+    {
+      "id": 9,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "Человек-волк",
+      "productImage": "https://upload.wikimedia.org/wikipedia/ru/3/3a/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0_%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA-%D0%B2%D0%BE%D0%BB%D0%BA.jpg",
+      "desc": "A controversial true-crime writer finds a box of Super 8 home movies in his new home, revealing that the murder case he is currently researching could be the work of an unknown serial killer...",
+      "tags": ["#horror", "#action"],
+      "actors": ["Benicio Del Toro"]
+    },
+    {
+      "id": 9,
+      "age": "18+",
+      "time": "1.30 HOURS",
+      "productName": "Screamboat ",
+      "productImage": "https://upload.wikimedia.org/wikipedia/ru/8/87/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0_%C2%AB%D0%9F%D0%B0%D1%80%D0%BE%D1%85%D0%BE%D0%B4%D0%B8%D0%BA_%D0%BA%D1%80%D0%B8%D0%BA%D0%B0%C2%BB.jpg",
+      "desc": "A late-night boat ride turns into a desperate fight for survival in New York City when a mischievous mouse becomes a monstrous reality. Can a motley crew survive a killer creature with a taste for tourists?",
+      "tags": ["#horror", "#action"],
+      "actors": ["David Howard "]
+    },
+    {
+      "id": 9,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "The Conjuring:last part",
+      "productImage": "https://www.kinonews.ru/insimgs/2024/poster/poster125571_2.webp",
+      "desc": "aranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
+      "tags": ["#horror", "#action"],
+      "actors": ["Vera Farmiga", "Patrick Wilson"]
+    },
+    {
+      "id": 9,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "Black Phone 2",
+      "productImage": "https://en-images-s.kinorium.com/movie/200/10702679.jpg?1712660300",
+      "desc": "horror...",
+      "tags": ["#horror", "#action"],
+      "actors": ["Mason Thames ", "Ethan Hawke "]
+    }
+  ],
+
+  "serialHorror": []
+}

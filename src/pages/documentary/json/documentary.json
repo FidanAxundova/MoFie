@@ -1,0 +1,186 @@
+{
+    "filmDocumentary": [
+        {
+            "id":55,
+            "productName": "Инсайдеры",
+            "age":"16+",
+            "time":"1.30 hours",
+            "productImage":"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e0a9520e-efa2-453f-bd2c-a82400928f09/600x900",
+            "desc": "A former political henchman seeks out revenge for being dropped by a ruthless politician while a determined investigator tries to find proof of a connection between the two of them.",
+            "tags": ["#documentary"],
+            "actors": ["Lee Byung-hun"]
+            
+        },
+       {
+        "id":56,
+        "productImage":"https://upload.wikimedia.org/wikipedia/ru/6/60/Ronaldo_%28film_2015%29.jpg",
+        "age":"12+",
+        "time":"1.30 hours",
+        "productName": "Ronaldo",
+        "desc": "bio Ronaldo",
+        "tags": ["#documentary"],
+        "actors": ["Ronaldo "]
+        
+   
+       },
+       {
+        "id":57,
+        "age":"16+",
+        "time":"1.30 h",
+        "productName": "Abducted in Plain Sight",
+        "productImage":"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/1565e62c-e63d-409b-bd57-a788f17d7705/600x900",
+        "desc": "The twisting, turning, stranger-than-fiction true story of the Brobergs, a naive, church-going Idaho family that fell under the spell of a sociopathic neighbor with designs on their twelve-year-old daughter.",
+        "tags": ["#documentary"],
+        "actors": ["Bob Broberg, Karen Campbell"]
+
+       
+   
+       },
+       {
+        "id":58,
+        "age":"16+",
+        "time":"2h ",
+        "productName": "The Great Hack",
+        "productImage":"https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/67cdafc2-6e0d-4ce1-83cb-0fd64ef9fd92/600x900",
+        "desc": "The Cambridge Analytica scandal is examined through the roles of several affected persons.",
+        "tags": ["#documentary"],
+        "actors": ["Brittany Kaiser"]
+
+
+       
+   
+       },
+       {
+        "id":59,
+        "age":"18+",
+        "time":"2 HOURS",
+        "productName": "Conor Mcgregor",
+        "productImage":"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/d76a936d-f533-4f37-8889-ec0723b3f0e7/600x900",
+        "desc": "bio Conor",
+        "tags": ["#documentary"],
+        "actors": ["Conor Mcgregor "]
+
+       
+   
+       },
+       {
+        "id":60,
+        "age":"18+",
+        "time":"2 HOURS",
+        "productName": "The Mystery of Marilyn Monroe",
+        "productImage":"https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/434d3d89-4533-46c7-a6ff-bcd3d83626cb/600x900",
+        "desc": "Explores the mystery surrounding the death of movie icon Marilyn Monroe through previously unheard interviews with her inner circle.",
+        "tags": ["#documentary"],
+        "actors": ["Luren Bacall, Gladys Baker"]
+
+       
+   
+       },
+       {
+        "id":61,
+        "age":"18+",
+        "time":"1.46h",
+        "productName": " Girl in the picture ",
+        "productImage":"https://avatars.mds.yandex.net/get-kinopoisk-image/4486362/e1206c7c-fc87-4214-b73d-aa1907500ecb/600x900",
+        "desc": "A young mother's mysterious death and her son's subsequent kidnapping blow open a decades-long mystery about the woman's true identity and the murderous federal fugitive at the center of it all.",
+        "tags": ["#documentary"],
+        "actors": ["Karen Parsley"]
+
+       
+   
+       },
+       {
+        "id":62,
+        "age":"18+",
+        "time":"2 HOURS",
+        "productName": "Capturing the Killer Nurse",
+        "productImage":"https://m.media-amazon.com/images/M/MV5BNzI1ZTIyNzAtMDg5NC00YzJmLTg0MTQtNDhiY2I5ZWIyOTM1XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+        "desc": "A surprising romance kicks off comic consequences for a young woman, her mother and her movie star boss as they face the complications of love, sex, and identity.",
+        "tags": ["#comedy"],
+        "actors": ["Nicole Kidman, Zac Efron "]
+       
+   
+       },
+       {
+        "id":63,
+        "age":"16+",
+        "time":"2 HOURS",
+        "productName": "Skywalkers",
+        "productImage":"https://m.media-amazon.com/images/M/MV5BNGU4Y2QxYTQtMWJhYy00OTNmLTgwZWUtZWYzYTQzMDQ2N2JmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "desc": "This documentary reveals how investigators proved ICU nurse Charles Cullen was killing patients — and how close he came to getting away with murder.",
+        "tags": ["#documentary"],
+        "actors": ["Charles Cullen , Amy Loughren"]
+
+       
+   
+       }
+    ],
+
+  "title": [
+    {
+      "id": 104,
+      "productImage": "https://avatars.mds.yandex.net/get-kinopoisk-image/10592371/a43b3ba5-502c-411d-94bd-8e250c8834a1/600x900",
+      "productName": "Пророк",
+      "age": "16+",
+      "time": "1.40h",
+      "desc": "Seventy-year-old Mahin, solitary until now, chooses to revive her love life. A chance encounter becomes an unforgettable evening.",
+      "tags": ["#documentary"],
+      "actors": ["Lili Farhadpour  "]
+    },
+    {
+      "id": 105,
+      "age": "18+",
+      "time": "2 HOURS",
+      "productName": "What Jennifer did",
+      "productImage": "https://m.media-amazon.com/images/M/MV5BNDg2MTBmNTItZDMxNS00MGEzLWJhMGEtMDM3Y2FhYTlmNzRlXkEyXkFqcGdeQXVyMTUyMzg5NzM2._V1_FMjpg_UX1000_.jpg",
+      "desc": "When Jennifer Pan calls 911 to report that her parents have been shot, she becomes the primary focus of a captivating criminal case.",
+      "tags": ["#documentary"],
+      "actors": ["Fernando Baldassini "]
+    },
+    {
+      "id": 106,
+      "age": "16+",
+      "time": "2 HOURS",
+      "productName": "Bit Conned ",
+      "productImage": "https://m.media-amazon.com/images/M/MV5BOTljOTk3MzAtZDk5ZC00MmYzLWFkMDItZGEzMDI1MTM5ZTZhXkEyXkFqcGdeQXVyMzE1ODQ4NA@@._V1_FMjpg_UX1000_.jpg",
+      "desc": "In this true-crime documentary, three guys exploit the freewheeling cryptocurrency market to scam millions from investors and bankroll lavish lifestyles.",
+      "tags": ["#documentary"],
+      "actors": ["Oshin Acopian, Adrew Aguiire "]
+    },
+
+    {
+      "id": 107,
+      "age": "12+",
+      "time": "2 HOURS",
+      "productName": "One love ",
+      "productImage": "https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/f248e519-b28b-402c-9110-91e30cb95c0e/600x900",
+      "desc": "The story of how reggae icon Bob Marley overcame adversity, and the journey behind his revolutionary music.",
+      "tags": ["#documentary"],
+      "actors": ["Kingsley Ben-Adir "]
+    },
+    {
+      "id": 108,
+      "age": "18+",
+      "time": "2.30HOURS",
+      "productName": "The Antisocial Network",
+      "productImage": "https://m.media-amazon.com/images/M/MV5BMjU2ZGU4M2ItZGY0MS00YzNiLWE1ZjAtOTY4N2UzYjU4ODE5XkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_FMjpg_UX1000_.jpg",
+      "desc": "A group of lonely teenagers formed an online community and bonded over their isolation, but their collective beliefs warped reality.",
+      "tags": ["#documentary"],
+      "actors": ["Fuxnet ,Amanda "]
+    },
+    {
+      "id": 109,
+      "age": "16+",
+      "time": "1 HOURS",
+      "productName": "Blue Angels ",
+      "productImage": "https://m.media-amazon.com/images/M/MV5BMzczNmI3YTYtZjhiYy00N2RmLTliZDktZDQ5NTEzMWE1ZjAyXkEyXkFqcGc@._V1_.jpg",
+      "desc": "Follows the veterans and newest class of Navy and Marine Corps flight squadron as they go through intense training and into a season of heart-stopping aerial artistry.",
+      "tags": ["#documentary"],
+      "actors": ["Chris Kapuschansky"]
+    }
+  ]
+}
+   
+
+
+    

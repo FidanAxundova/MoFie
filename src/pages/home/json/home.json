@@ -1,0 +1,158 @@
+{
+  "home": [
+    {
+      "id": 82,
+      "productImage": "https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/0/1/8374101/104894313564.jpg",
+      "productName": "Повышение",
+      "age": "16+",
+      "time": "1.26h",
+      "desc": "Two assistant managers of a corporate grocery store vie for a coveted promotion..",
+      "tags": ["#comedy"],
+      "actors": ["Michael Yurchak"]
+    },
+    {
+      "id": 83,
+      "productImage": "https://upload.wikimedia.org/wikipedia/ru/8/8e/Spaceman_%28film%2C_2024%29.jpg",
+      "age": "16+",
+      "time": "1.47h",
+      "productName": "Spaceman",
+      "desc": "Half a year into his solo mission on the edge of the solar system, an astronaut concerned with the state of his life back on Earth is helped by an ancient creature he discovers in the bowels of his ship.",
+      "tags": ["#drama,#adventure"],
+      "actors": ["Adam Sandler"]
+    },
+    {
+      "id": 84,
+      "age": "12+",
+      "time": "1.39 h",
+      "productName": "Art of Love ",
+      "productImage": "https://m.media-amazon.com/images/M/MV5BNmJlZWEwMzEtOGZlZS00ZDllLTk0NTgtZTQzZGUzZWRkMmY5XkEyXkFqcGdeQXVyMTUzOTczNzYx._V1_FMjpg_UX1000_.jpg",
+      "desc": "After learning that the art thief she has been chasing is her ex-lover, an officer working for Interpol concocts a plan to catch him red-handed.",
+      "tags": ["#romance"],
+      "actors": ["Birkan Sokullu"]
+    },
+    {
+      "id": 85,
+      "age": "18+",
+      "time": "2.30 HOURS",
+      "productName": "Looking at you",
+      "productImage": "https://m.media-amazon.com/images/M/MV5BYzNjZjlkOWUtMWQ0OC00NzJmLWE0NWEtNzgyYmZhMzU2ZGIzXkEyXkFqcGdeQXVyOTM1NDU0MTI@._V1_FMjpg_UX1000_.jpg",
+      "desc": "After the events of the summer, Ares and Raquel can't find a way to carry on their relationship and decide to go their separate ways. When they see each other again in winter, the love and attraction they feel for each other is undeniable.",
+      "tags": ["#drama"],
+      "actors": ["Clara Galle"]
+    },
+    {
+      "id": 86,
+      "age": "18+",
+      "time": "1.45h",
+      "productName": "Tarrot",
+      "productImage": "https://skyline.by/wp-content/uploads/2024/06/taro-karta-smerti_2025-720x1024.jpg",
+      "desc": "Follows the growth of third-grader Gawain Nanaumi as he encounters the sport of golf and competes with his rivals.",
+      "tags": ["#anime"],
+      "actors": ["Michael Yurchak"]
+    },
+    {
+      "id": 87,
+      "age": "18+",
+      "time": "2.35h",
+      "productName": "Dune",
+      "productImage": "https://static.kinoafisha.info/k/movie_posters/canvas/800x1200/upload/movie_posters/6/1/6/8365616/741516774689.jpg",
+      "desc": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future.",
+      "tags": ["#desert adventure"],
+      "actors": ["Timothee Chalamet"]
+    },
+    {
+      "id": 88,
+      "age": "16+",
+      "time": "1.55h",
+      "productName": "Bad Boys ",
+      "productImage": "https://avatars.mds.yandex.net/get-kinopoisk-image/10812607/c05d6394-0215-41fe-94bc-2704caa6570f/600x900",
+      "desc": "When their late police captain gets linked to drug cartels, wisecracking Miami cops Mike Lowrey and Marcus Burnett embark on a dangerous mission to clear his name.",
+      "tags": ["#action epic"],
+      "actors": ["Will Smith , Martin Lawrence"]
+    },
+    {
+      "id": 89,
+      "age": "18+",
+      "time": "1.56h",
+      "productName": "Madame Web",
+      "productImage": "https://www.kino-teatr.ru/movie/posters/big/5/176575.jpg",
+      "desc": "Cassandra Webb is a New York metropolis paramedic who begins to demonstrate signs of clairvoyance. Forced to challenge revelations about her past, she needs to safeguard three young women from a deadly adversary who wants them destroyed..",
+      "tags": ["#superhero"],
+      "actors": ["Dakota Johnson"]
+    },
+    {
+      "id": 90,
+      "age": "16+",
+      "time": "2.1h",
+      "productName": "Road House",
+      "productImage": "https://upload.wikimedia.org/wikipedia/ru/8/82/Road_House_2024.jpg",
+      "desc": "Ex-UFC fighter Dalton takes a job as a bouncer at a Florida Keys roadhouse, only to discover that this paradise is not all it seems.",
+      "tags": ["#action"],
+      "actors": ["Jake Gyllenhaal"]
+    }
+  ],
+
+  "title": [
+    {
+      "id": 122,
+      "productImage": "https://m.media-amazon.com/images/M/MV5BY2EzMTg5Y2QtNTlmMy00MmUzLTk1ZDgtYmRlYWYzYzRjNDYyXkEyXkFqcGdeQXVyMjkxMjAzMDg@._V1_FMjpg_UX1000_.jpg",
+      "productName": "Stream",
+      "age": "16+",
+      "time": "1.3h",
+      "desc": "The Keenan family's simple weekend getaway truly turns into a vacation to die for, as four deranged killers playing a sadistic game lock down their hotel and compete for the most creative murders of all the guests.",
+      "tags": ["#horror "],
+      "actors": ["Tim Curry"]
+    },
+    {
+      "id": 123,
+      "age": "16+",
+      "time": "1.42h",
+      "productName": "Blink Twice",
+      "productImage": "https://m.media-amazon.com/images/M/MV5BMzczYmQ0NTUtMTM5OS00Mzc4LWExZDYtOWE4YjRkOWJkYWRlXkEyXkFqcGc@._V1_.jpg",
+      "desc": "When tech billionaire Slater King meets cocktail waitress Frida at his fundraising gala, he invites her to join him and his friends on a dream vacation on his private island. As strange things start to happen, Frida questions her reality.",
+      "tags": ["#thriller"],
+      "actors": ["Naomi Ackie"]
+    },
+    {
+      "id": 124,
+      "age": "12+",
+      "time": "2.4 h",
+      "productName": "The Forge",
+      "productImage": "https://m.media-amazon.com/images/M/MV5BMmYxMTUwM2ItZGVlZi00ODI0LTg2N2QtMTcyNTBlODcwNWUzXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_.jpg",
+      "desc": "After graduating from high school without any plans for the future, Isaiah receives a push to start making better life decisions.",
+      "tags": ["#drama"],
+      "actors": ["Aspen Kennedy "]
+    },
+
+    {
+      "id": 125,
+      "age": "12+",
+      "time": "1.52h",
+      "productName": "Greedy People ",
+      "productImage": "https://m.media-amazon.com/images/M/MV5BYzBlM2E0M2EtMjBhNy00NTEwLWJlZTgtNTg5NGFiYTNmNGZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "desc": "Follows the residents of a small island town who must navigate a sensational murder and the discovery of a million dollars; a series of increasingly bad decisions upend the once peaceful community.",
+      "tags": ["#comedy"],
+      "actors": ["Himesh Patel"]
+    },
+    {
+      "id": 126,
+      "age": "16+",
+      "time": "1.48h",
+      "productName": "Paradise is burning",
+      "productImage": "https://m.media-amazon.com/images/M/MV5BNzUxMWZkMzMtMmQyMy00Mjc5LTllNWEtYTMxYTI5NGExYTE1XkEyXkFqcGdeQXVyMTIxMTAzNzU4._V1_.jpg",
+      "desc": "Three sisters aged 7 to 16, live alone after their mother vanishes for whole swathes of time. When the social services demand a family meeting, oldest sister Laura plans to find a stand in for their mother.",
+      "tags": ["#drama"],
+      "actors": ["Bianca Delbravo"]
+    },
+    {
+      "id": 127,
+      "age": "16+",
+      "time": "1.37h",
+      "productName": " Strange Darling ",
+      "productImage": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/231334/StrangeDarling-1600.jpg",
+      "desc": "Nothing is what it seems when a twisted one-night stand spirals into a serial killer's vicious murder spree.",
+      "tags": ["#horror"],
+      "actors": ["Willa Fitzgerald"]
+    }
+  ]
+}
