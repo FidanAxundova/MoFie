@@ -96,4 +96,11 @@
   gap: 13px;
 }
 
-//
+@media (max-width: 960px) {
+  .movie__hero {
+    display: none;
+  }
+  .movie__content {
+    padding-left: 0px;
+  }
+}

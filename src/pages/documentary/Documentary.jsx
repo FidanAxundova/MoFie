@@ -35,9 +35,7 @@ const documentary = () => {
       </div>
      */}
       <div className=" main documentary-container">
-        <div className="title">
-          <h1> Documentary MoFieS </h1>
-        </div>
+        <h1 className="title"> Documentary MoFieS </h1>
 
         {pathEnd === "film-documentary" ? (
           <FilmList products={documentaryJson.filmDocumentary} />
@@ -46,10 +44,8 @@ const documentary = () => {
         )}
 
         <div className="coming-soon-container">
-          <div className="title">
-            <h1>Coming soon</h1>
-            <FilmList products={documentaryJson["title"]} />
-          </div>
+          <h1 className="title">Coming soon</h1>
+          <FilmList products={documentaryJson["title"]} />
         </div>
       </div>
     </>

@@ -66,3 +66,11 @@ footer {
     }
   }
 }
+@media (max-width: 960px) {
+  .logo-footer-cont {
+    p {
+      font-size: 17px;
+      width: 300px !important;
+    }
+  }
+}

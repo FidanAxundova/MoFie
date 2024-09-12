@@ -4,7 +4,7 @@ import Card from "../card/Card";
 import Overlay from "../overlay/Overlay";
 import { createPortal } from "react-dom";
 
-const FilmList = ({ products, openModal }) => {
+const FilmList = ({ products }) => {
   const [showModal, setShowModal] = useState(false);
   const [cardProduct, setCardProduct] = useState(null);
 
@@ -44,7 +44,11 @@ const FilmList = ({ products, openModal }) => {
         ))}
       </div>
       {showModal && <Card data={cardProduct} />}
-      {showModal && createPortal(<Overlay onClose = {()=>setShowModal(false) } />, document.body)}
+      {showModal &&
+        createPortal(
+          <Overlay onClose={() => setShowModal(false)} />,
+          document.body
+        )}
     </div>
   );
 };

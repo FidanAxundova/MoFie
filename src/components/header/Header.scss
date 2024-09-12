@@ -6,6 +6,7 @@
   width: 100%;
   z-index: 3;
   background-color: rgb(8, 8, 8, 0.3);
+
   // background-size: cover;
   // background-position: center;
   // background-repeat: no-repeat;
@@ -38,6 +39,39 @@
   display: flex;
   align-items: center;
 }
+.side-bar {
+  position: fixed;
+  background-color: rgb(103, 101, 101);
+  padding: 50px;
+  height: 100vh;
+  right: 0;
+  top: 0;
+  z-index: 99;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  // align-items: center;
+}
+.bars-icon {
+  display: none;
+  font-size: 25px;
+  color: rgb(113, 11, 11);
+}
+
+.side-bar .links {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.close-icon {
+  position: absolute;
+  top: 5px;
+  left: 10px;
+  color: #ffffff;
+  font-size: 20px;
+  cursor: pointer;
+}
 
 .top {
   display: flex;
@@ -51,13 +85,12 @@
 
 .links {
   display: flex;
-  align-items: center;
+  // align-items: center;
   gap: 50px;
   justify-content: space-between;
-  padding: 10px;
 }
 .links-a:hover {
-  color: rgb(184, 2, 2);;
+  color: rgb(113, 11, 11);
 }
 .links-a {
   color: rgb(255, 252, 252);
@@ -70,8 +103,13 @@
   font-weight: 900;
   text-transform: uppercase;
   letter-spacing: 2px;
+  display: flex;
+  gap: 8px;
+  align-items: center;
 }
-
+.side-icons {
+  margin-right: 8px;
+}
 .top-left {
   display: flex;
   justify-content: center;
@@ -205,29 +243,80 @@
 }
 
 .favorite {
+  cursor: pointer;
   display: flex;
   align-items: center;
   text-decoration: none;
   gap: 8px;
 
-  span{
+  span {
     text-decoration: none;
     color: white;
     font-size: 22px;
-    
   }
 }
-.favorite:hover .icon-heart{
+.favorite:hover .icon-heart {
   color: white;
 }
 .favorite:hover span {
-   
-    color: rgb(184, 2, 2);
+  color: rgb(113, 11, 11);
 }
 
 .icon-heart {
-  color: rgb(184, 2, 2);
+  color: rgb(113, 11, 11);
   font-size: 24px;
 }
+.side-favorite {
+  display: flex;
+  gap: 8px;
+  font-size: 20px;
+  color: white;
+  padding: 13px 0;
+  cursor: pointer;
+  .icon-heart {
+    font-size: 20px;
+    color: white;
+  }
+}
+.side-favorite:hover {
+  color: rgb(113, 11, 11);
+}
+.icon-heart:hover {
+  color: rgb(113, 11, 11);
+}
+.side-bar:hover {
+  color: rgb(113, 11, 11);
+}
+.links-a {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
 
+.side-bar-film {
+  display: flex;
+  flex-direction: column;
+}
 
+.side-bar-dropdown {
+  margin-left: 27px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+
+  a {
+    text-decoration: none;
+    color: white;
+  }
+}
+
+@media (max-width: 960px) {
+  .nav-menu,
+  .favorite {
+    display: none;
+  }
+  .bars-icon {
+    display: block;
+   
+  }
+}

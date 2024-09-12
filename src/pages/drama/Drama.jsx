@@ -23,19 +23,15 @@ const Drama = () => {
         img="https://blogscdn.thehut.net/app/uploads/sites/39/2019/12/GREEN-1_1575975387.jpg"
       />
       <div className="main drama-container">
-        <div className="title">
-          <h1>Drama MoFieS </h1>
-        </div>
+        <h1 className="title">Drama MoFieS </h1>
         {pathEnd === "film-drama" ? (
           <FilmList products={dramaJson.filmDrama} />
         ) : (
           <FilmList products={dramaJson.serialDrama} />
         )}
         <div className="coming-soon-container">
-          <div className="title">
-            <h1>Coming soon</h1>
-            <FilmList products={dramaJson["title"]} />
-          </div>
+          <h1 className="title">Coming soon</h1>
+          <FilmList products={dramaJson["title"]} />
         </div>
       </div>
     </>

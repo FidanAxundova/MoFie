@@ -4,7 +4,7 @@
         "id": 28,
         "productName": "Ratatuy",
         "age": "6+",
-        "time": "2hours",
+        "time": "2h",
         "productImage": "https://upload.wikimedia.org/wikipedia/ru/d/d1/Ratatui.jpg",
         "desc": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.",
         "tags": ["#cartoon"],
@@ -13,7 +13,7 @@
       {
         "id": 29,
         "productImage": "https://upload.wikimedia.org/wikipedia/ru/thumb/d/df/Заветное_желание_%28постер%29.jpg/800px-Заветное_желание_%28постер%29.jpg",
-        "time": "1.30 hours",
+        "time": "1.30h",
         "productName": "Wish",
         "desc": "A young girl named Asha wishes on a star and gets a more direct answer than she bargained for when a trouble-making star comes down from the sky to join her.",
         "tags": ["#cartoon"],
@@ -22,7 +22,7 @@
       {
         "id": 30,
         "age": "6+",
-        "time": "2 HOURS",
+        "time": "2h",
         "productName": "Зверопой",
         "productImage": "https://cdn1.ozone.ru/s3/multimedia-a/6043396642.jpg",
         "desc": "In a city of humanoid animals, a hustling theater impresario's attempt to save his theater with a singing competition becomes grander than he anticipates even as its finalists find that their lives will never be the same.",
@@ -32,7 +32,7 @@
       {
         "id": 31,
         "age": "8+",
-        "time": "2.30 HOURS",
+        "time": "2.30h",
         "productName": "Коралина в стране кошмаров",
         "productImage": "https://static.hdrezka.ac/i/2014/12/19/ide3e8434f238dy40e31o.jpg",
         "desc": "Wandering her rambling old house in her boring new town, an 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice..",
@@ -42,7 +42,7 @@
       {
         "id": 32,
         "age": "18+",
-        "time": "2 HOURS",
+        "time": "2h",
         "productName": "Миньоны",
         "productImage": "https://thumbs.dfs.ivi.ru/storage6/contents/2/f/3d8cf3a06154802d89099ff0812641.jpg",
         "desc": "Minions Stuart, Kevin, and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
@@ -52,7 +52,7 @@
       {
         "id": 33,
         "age": "6+",
-        "time": "2 HOURS",
+        "time": "2h",
         "productName": "Вверх",
         "productImage": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/8d19eeb1-608b-4cdd-917e-b3a255471e2b/600x900",
         "desc": "S78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
@@ -62,7 +62,7 @@
       {
         "id": 34,
         "age": "6+",
-        "time": "2 HOURS",
+        "time": "2h",
         "productName": "Король Лев ",
         "productImage": "https://ru-images-s.kinorium.com/movie/1080/100459.jpg?1576480207",   
         "desc": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
@@ -72,7 +72,7 @@
       {
         "id": 35,
         "age": "18+",
-        "time": "2 HOURS",
+        "time": "2h",
         "productName": "Гадкий Я",
         "productImage": "https://upload.wikimedia.org/wikipedia/ru/6/6d/Despicable_Me.jpg",
         "desc": "Gru, a criminal mastermind, adopts three orphans as pawns to carry out the biggest heist in history. His life takes an unexpected turn when the little girls see the evildoer as their potential father.",
@@ -82,7 +82,7 @@
       {
         "id": 36,
         "age": "18+",
-        "time": "2 HOURS",
+        "time": "2h",
         "productName": "Ранго",
         "productImage": "https://s1.afisha.ru/mediastorage/5a/44/4f0b785aa58142408703e764445a.jpg",
         "desc": "Rango is an ordinary chameleon who accidentally winds up in the town of Dirt, a lawless outpost in the Wild West in desperate need of a new sheriff.",
@@ -115,7 +115,7 @@
       {
         "id": 136,
         "age": "0+",
-        "time": "1ю30h",
+        "time": "1.30h",
         "productName": "Единорог Тельма",
         "productImage": "https://avatars.mds.yandex.net/get-kinopoisk-image/10900341/65176275-9a5e-47b1-92be-701afbb8e7f4/600x900",
         "desc": "When a rare pink and glitter-filled moment of fate makes Thelma the Pony's wish of being a unicorn come true, she rises to instant international pop-superstar stardom, but at an unexpected cost.",
@@ -126,7 +126,7 @@
       {
         "id": 137,
         "age": "6+",
-        "time": "1.30 h",
+        "time": "1.30h",
         "productName": "Saving Bikini Bottom ",
         "productImage": "https://avatars.mds.yandex.net/get-kinopoisk-image/4486362/8e545f74-e8ef-4a9d-afdd-0f039807a148/600x900",
         "desc": "When Bikini Bottom is suddenly scooped out of the ocean, Sandy Cheeks and SpongeBob journey to Sandy's home state of Texas, where they meet Sandy's family and must save Bikini Bottom from the hands of an evil CEO.",

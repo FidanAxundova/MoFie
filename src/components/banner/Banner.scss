@@ -56,3 +56,21 @@
     // z-index: ;
   }
 }
+@media (max-width: 960px) {
+  .text {
+    font-size: 20px;
+    width: 300px;
+    margin-left: 35px;
+
+    span {
+      font-size: 13px;
+    }
+
+    h2 {
+      font-size: 35px;
+    }
+    p {
+      font-size: 20px;
+    }
+  }
+}

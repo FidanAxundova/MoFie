@@ -40,9 +40,7 @@ const Home = () => {
       />
 
       <div className=" main home-container">
-        <div className="title">
-          <h1>Best Movies </h1>
-        </div>
+        <h1 className="title">Best Movies </h1>
 
         <FilmList products={homeJson.home} />
 

@@ -16,16 +16,12 @@ const Cartoon = () => {
       />
 
       <div className=" main cartoon-container">
-        <div className="title">
-          <h1>Cartoons MoFieS </h1>
-        </div>
+        <h1 className="title">Cartoon MoFieS </h1>
 
         <FilmList products={cartoonJson.cartoon} />
         <div className="coming-soon-container">
-          <div className="title">
-            <h1>Coming soon</h1>
-            <FilmList products={cartoonJson["title"]} />
-          </div>
+          <h1 className="title">Coming soon</h1>
+          <FilmList products={cartoonJson["title"]} />
         </div>
       </div>
     </>

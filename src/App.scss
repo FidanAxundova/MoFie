@@ -44,16 +44,6 @@ h6 {
   font-weight: 200;
   font-style: normal;
 }
-.title {
-  h1 {
-    text-align: center;
-    font-size: 40px;
-    color: white;
-    font-family: "Abril Fatface", serif;
-    font-weight: 200;
-    font-style: normal;
-  }
-}
 .logo {
   display: flex;
   gap: 13px;
@@ -80,14 +70,29 @@ h6 {
   border-radius: 8px;
   background-color: red;
   color: white;
-  font-size: 16px;
+  font-size: 13px;
 }
-.remove-btn{
+.remove-btn {
   padding: 13px 15px;
   cursor: pointer;
   // border: 2px solid black;
   border-radius: 8px;
   background-color: red;
   color: white;
-  font-size: 16px;
+  font-size: 13px;
+}
+
+@media (max-width: 960px) {
+  .logo {
+    .name,
+    .icon {
+      font-size: 30px;
+    }
+  }
+  .favorite-btn {
+    font-size: 10px !important;
+  }
+  .remove-btn {
+    font-size: 10px;
+  }
 }

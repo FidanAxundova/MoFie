@@ -18,16 +18,12 @@ const Anime = () => {
       />
 
       <div className=" main anime-container">
-        <div className="title">
-          <h1>Anime MoFieS </h1>
-        </div>
+        <h1 className="title">Anime MoFieS </h1>
 
         <FilmList products={animeJson.anime} />
         <div className="coming-soon-container">
-          <div className="title">
-            <h1>Coming soon</h1>
-            <FilmList products={animeJson["title"]} />
-          </div>
+          <h1 className="title">Coming soon</h1>
+          <FilmList products={animeJson["title"]} />
         </div>
       </div>
     </>

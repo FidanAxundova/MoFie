@@ -32,7 +32,9 @@ const Banner = ({ name, desc, imbd, img, id }) => {
           {/* <FavoriteBtn data={data} /> */}
         </motion.div>
 
-        <div className="banner-overlay"></div>
+        <div className="banner-overxlay">
+
+        </div>
       </div>
     </div>
   );

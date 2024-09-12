@@ -55,10 +55,8 @@ const Horror = () => {
           )}
 
           <div>
-            <div className="title">
-              <h1 className="h-title">Coming soon </h1>
-              <FilmList products={horrorJson["title"]} />
-            </div>
+            <h1 className="h-title">Coming soon </h1>
+            <FilmList products={horrorJson["title"]} />
           </div>
         </div>
       </div>

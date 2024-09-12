@@ -37,9 +37,7 @@ const Films = () => {
       </div> */}
       <div>
         <div className=" main films-container">
-          {/* <div className="title"> */}
           <h1 className="title">Best Films </h1>
-          {/* </div> */}
           <FilmList products={filmsJson.films} />
 
           <div className="coming-soon-container">
